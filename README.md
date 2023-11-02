@@ -2,10 +2,10 @@
 
 ### Задание 1
 Авторизация в админке:
-![Авторизация в админке](https://github.com/hokum83/8-02/blob/main/img/8-02-1-1.png)
+![Авторизация в админке](https://github.com/hokum83/hw-02/blob/main/img/1-1.png)
 
 Главный экран:
-![Главный экран](https://github.com/hokum83/8-02/blob/main/img/8-02-1-2.png)
+![Главный экран](https://github.com/hokum83/hw-02/blob/main/img/1-2.png)
 
 Код:
 ```
@@ -26,13 +26,13 @@ systemctl enable zabbix-server apache2
 
 ### Задание 2
 Раздел Hosts:
-![Раздел Hosts:](https://github.com/hokum83/8-02/blob/main/img/8-02-2-1.png)
+![Раздел Hosts:](https://github.com/hokum83/hw-02/blob/main/img/2-1.png)
 
 Логи агента:
-![Логи агента](https://github.com/hokum83/8-02/blob/main/img/8-02-2-2.png)
+![Логи агента](https://github.com/hokum83/hw-02/blob/main/img/2-2.png)
 
 Раздел Latest Data:
-![Раздел Latest Data](https://github.com/hokum83/8-02/blob/main/img/8-02-2-2.png)
+![Раздел Latest Data](https://github.com/hokum83/hw-02/blob/main/img/2-3.png)
 
 Код:
 ```
